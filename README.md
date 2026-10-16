@@ -6,8 +6,8 @@ This repository contains supporting material for the corrosion segmentation stud
 
 The compiled dataset contains images from three main sources:
 
-- Virginia Tech Corrosion Condition State Semantic Segmentation Dataset
-- Corrosion Image Data Set for Automating Scientific Assessment of Materials Dataset
+- Virginia Tech Corrosion Condition State Semantic Segmentation Dataset: https://data.lib.vt.edu/articles/dataset/Corrosion_Condition_State_Semantic_Segmentation_Dataset/16624663
+- Corrosion Image Data Set for Automating Scientific Assessment of Materials Dataset: https://arl.wpi.edu/corrosion_dataset/
 - Publicly available Roboflow datasets
 
 
